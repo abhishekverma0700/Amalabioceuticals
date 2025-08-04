@@ -11,12 +11,12 @@ import AmalavitGold from "@/assets/AmalavitGold.jpg";
 import AmalavitOD from "@/assets/AmalavitOD.jpg";
 import AmalagesicSp from "@/assets/AmalagesicSp.jpg";
 import PilesCapsules from "@/assets/PilesCapsules.jpg";
-import AmalaCal from "@/assets/Amalacal.jpg";
+import AmalaCal from "@/assets/AmalaCal.jpg";
 import AmalavitSyrup from "@/assets/AmalavitSyrup.jpg";
 import RollOnOil from "@/assets/RollOnOil.jpg";
 import AmalasonSyrup from "@/assets/AmalasonSyrup.jpg";
 import AmalaferXT from "@/assets/AmalaferXT.jpg";
-import Amalaliv5G from "@/assets/Amalaliv5g.jpg";
+import Amalaliv5G from "@/assets/Amalaliv5G.jpg";
 import AmalarabDSR from "@/assets/AmalarabDSR.jpg";
 
 
