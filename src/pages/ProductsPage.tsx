@@ -10,7 +10,7 @@ import AmalacalK27 from "@/assets/AmalacalK27.jpg";
 import AmalavitGold from "@/assets/AmalavitGold.jpg";
 import AmalavitOD from "@/assets/AmalavitOD.jpg";
 import AmalagesicSp from "@/assets/AmalagesicSp.jpg";
-import PilesCapsules from "@/assets/Pilescapsules.jpg";
+import PilesCapsules from "@/assets/PilesCapsules.jpg";
 import AmalaCal from "@/assets/Amalacal.jpg";
 import AmalavitSyrup from "@/assets/AmalavitSyrup.jpg";
 import RollOnOil from "@/assets/RollOnOil.jpg";
