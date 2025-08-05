@@ -209,7 +209,7 @@ const Footer = () => {
                   className="border-white/30 text-white hover:bg-white/10 hover:border-white"
                   asChild
                 >
-                  <a href="https://wa.me/919452601372" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/+919555433193" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="h-4 w-4" />
                   </a>
                 </Button>
